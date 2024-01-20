@@ -8,3 +8,18 @@
    - [returns](https://github.com/svn365/skills-SQL/blob/main/CREATE%20TABLE%20returns.sql)
 
 2. Написаны запросы для извлечения аналитических данных из ранее созданных таблиц базы данных:
+  2.1 Overview (обзор ключевых метрик)
+  - Total Sales 
+  - Total Profit
+  - Profit Ratio
+  - Profit per Order
+  - Sales per Customer
+  - Avg. Discount
+  - Monthly Sales by Segment ( табличка и график)
+  - Monthly Sales by Product Category (табличка и график)
+  2.2 Product Dashboard (Продуктовые метрики)
+  - Sales by Product Category over time (Продажи по категориям)
+  2.3 Customer Analysis
+  - Sales and Profit by Customer
+  - Customer Ranking
+  - Sales per region
